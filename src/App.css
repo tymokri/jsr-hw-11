@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  padding: 100px;
+}
+
+.hidden {
+  display: none;
+}
+
+.btn-margin {
+  margin-bottom: 30px;
+}
+
